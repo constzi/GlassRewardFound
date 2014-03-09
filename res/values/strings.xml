@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reward if Glass is found</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start_app">Reward if found $$$</string> <!-- The phrase used to start the application. -->
+    
+    <string name="stop">Goodbye Glass</string>
+    <string name="hello_glass">Hello, Glass!</string>
+    <string name="title_activity_magic">Reward</string>
+
+</resources>
